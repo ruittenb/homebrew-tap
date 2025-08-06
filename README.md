@@ -1,18 +1,15 @@
-# Ruittenb Tap
 
-## How do I install these formulae?
+# Homebrew Tap for Spaceman
 
-`brew install ruittenb/tap/<formula>`
+This tap provides a cask for [Spaceman](https://github.com/ruittenb/Spaceman),
+a menu bar utility to view and navigate Spaces on macOS.
 
-Or `brew tap ruittenb/tap` and then `brew install <formula>`.
+This fork is actively maintained and includes improvements not available in the original repo.
 
-Or, in a `brew bundle` `Brewfile`:
+## Installation
 
-```ruby
-tap "ruittenb/tap"
-brew "<formula>"
+```bash
+brew tap ruittenb/tap
+brew install --cask spaceman
 ```
 
-## Documentation
-
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
