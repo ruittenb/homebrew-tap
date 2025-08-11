@@ -10,6 +10,6 @@ This fork is actively maintained and includes improvements not available in the 
 
 ```bash
 brew tap ruittenb/tap
-brew install --cask spaceman
+brew install --cask ruittenb/tap/spaceman
 ```
 
