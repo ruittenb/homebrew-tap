@@ -1,6 +1,6 @@
 cask "spaceman" do
-  version "1.13.7"
-  sha256 "7f6f72497b68d9e1a61791e13daf4e8778ff41480dd8847380fb78e321bf983b"
+  version "1.13.8"
+  sha256 "aafeb46628528150dd16f846c1468442c1c6c3caace31a98255a2130ed350592"
 
   url "https://github.com/ruittenb/Spaceman/releases/download/v#{version}/Spaceman-#{version}.dmg"
   name "Spaceman"
