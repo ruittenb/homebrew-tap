@@ -7,7 +7,7 @@ cask "spaceman" do
   desc "View and navigate Spaces (Virtual Desktops) from the menu bar"
   homepage "https://github.com/ruittenb/Spaceman"
 
-  depends_on macos: ":ventura"
+  depends_on macos: :ventura
 
   app "Spaceman.app"
 end
